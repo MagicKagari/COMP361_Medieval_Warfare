@@ -1,0 +1,19 @@
+The user starts by accessing the login screen.
+He can choose options (sound settings etc..), visit the website, exit.
+Once logged in he is directed to a main screen where he has access to four lobbies:
+Create Lobby, Join Lobby, Single Player Lobby, Saved Game Lobby.
+
+* Create:
+	Allows users to decides on settings for his game. 
+	Which map, number of human and/or computer players, etc...
+	
+* Join:
+	User can see which lobbys are active and can join one that fits his settings
+
+* Saved:
+	Lobby wich returns  a list of the users saved games and states. 
+
+* Single:
+	The player can set the settings for his single player game
+
+After progressing through the lobby they're taken ingame once the players are ready
