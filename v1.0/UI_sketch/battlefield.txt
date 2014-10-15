@@ -1,1 +1,13 @@
-The battle field consists of the main battle screen, a upper Menu bar, a mini thumbnail of entire map, 
+The battle field consists of the main battle screen, a upper Menu bar, a mini thumbnail of entire map, a Data field on left.
+
+Mean bar consists of: information of resources, game status, menu.
+1.Information of resources displays current player's resources and their ammount.
+2.Game status displays current game time since started, total number of turns, which player's which turn and which phase.
+3.Menu shows a side-down menu after click, and it will allow user to save, load, options, exit current game.
+
+Map will display a thumbnail of entire map, current view of map is displayed inside a square on thumbnail. And player can click on thumbnail to bring their view to destination point.
+
+Main battle screen shows part of the whole map, and this is the place where players can operate with their units and territories. Different players' units will be marked with a color assigned at the lobby.
+To do operation on a unit, player need to click on that unit and a circle with operation will appear. Player can now select what operation they want on this unit like "attack" or "merge".
+
+Data will display information about current selected unit. If a villager is selected, how many gold it cost each turn, how many gold he mined, how many buildings it construced etc. 
