@@ -29,6 +29,11 @@ Create Lobby, Join Lobby, Single Player Lobby, Saved Game Lobby.
 
 * Single:
 	The player can set the settings for his single player game
-	Pressing "Create lobby"
-
+	Pressing "Create lobby" will bring you to a new active lobby (single)
+	
+* Single Active Lobby:
+	This special kind of lobby does not allow other people to join your lobby.
+	You can add computers on each slot (at least one).
+	When every slot is taken(ready) or closed, then you can start the game.
+	
 After progressing through the lobby they're taken ingame once the players are ready
