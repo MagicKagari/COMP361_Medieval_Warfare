@@ -3,6 +3,18 @@ He can choose options (sound settings etc..), visit the website, exit.
 Once logged in he is directed to a main screen where he has access to four lobbies:
 Create Lobby, Join Lobby, Single Player Lobby, Saved Game Lobby.
 
+* Login:
+	To play this game, the user must log in.
+	On the side, the user can select website to get more information about the game, option to fiddle with sound/graphics, or exit the gagame.
+	After login in, it will bring you to the main page
+	
+* Main:
+	You have four main buttons on this screen: Single Player, Create lobby, Join lobby, Saved Games
+	The option button is there for functions such as: exit game, settings (sound/graphics,etc), tutorials, website, etc
+	The box next to option can display player information (logged in as)
+	The Plyaers Online box displays all the players online on this server
+	The chatbox can be seperate in different tabs, the "Main Tab" will have all the online players connected and they can communicate through this tab
+
 * Create:
 	Allows users to decide on settings for his game. 
 	Which map, number of human and/or computer players, game mode, etc....
