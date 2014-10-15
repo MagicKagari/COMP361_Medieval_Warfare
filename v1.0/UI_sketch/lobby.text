@@ -4,8 +4,8 @@ Once logged in he is directed to a main screen where he has access to four lobbi
 Create Lobby, Join Lobby, Single Player Lobby, Saved Game Lobby.
 
 * Create:
-	Allows users to decides on settings for his game. 
-	Which map, number of human and/or computer players, etc...
+	Allows users to decide on settings for his game. 
+	Which map, number of human and/or computer players, game mode, etc....
 	
 * Join:
 	User can see which lobbys are active and can join one that fits his settings
