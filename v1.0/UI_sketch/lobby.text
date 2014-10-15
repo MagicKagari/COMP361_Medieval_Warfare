@@ -6,14 +6,29 @@ Create Lobby, Join Lobby, Single Player Lobby, Saved Game Lobby.
 * Create:
 	Allows users to decide on settings for his game. 
 	Which map, number of human and/or computer players, game mode, etc....
+	After deciding on your settings, press "Create Lobby" and it will bring you to an active lobby.
+	
+* Active Lobby:
+	When a player joins this lobby (including the host that made the lobby), they appear on the Players Online list
+	A player can then join a slot if they wish to play.
+	If a player is in a slot, he can either be ready or unready.
+	A slot can either be taken, free or closed.
+	When every slot is ready or closed, then the game can start (brings you ingame)
 	
 * Join:
-	User can see which lobbys are active and can join one that fits his settings
+	User can see which lobbys are active and can join one that fits his settings.
+	After pressing on "Join lobby", you will be connected to the active lobby.
 
 * Saved:
-	Lobby wich returns  a list of the users saved games and states. 
+	Lobby wich returns  a list of the users saved games and states.
+	After you press "Load game" you will be directed to a Saved Lobby.
+	
+* Saved Lobby:
+	In this lobby, the settings are already predefined from the moment you saved the game.
+	To start this game, every player that was present during savetime but be in a slot and ready.
 
 * Single:
 	The player can set the settings for his single player game
+	Pressing "Create lobby"
 
 After progressing through the lobby they're taken ingame once the players are ready
