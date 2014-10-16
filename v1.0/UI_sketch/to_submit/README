@@ -1,5 +1,5 @@
 Our UI sketch consists of 2 parts: lobby part and battle field part.
 
-Lobby part consists of Active_Lobby.png Saved.png Create_Lobby.png Login.png Single.png Idle_Lobby.png Main.png Join.png. lobby.txt and Lobby_overview.png are descriptions.
+Lobby part consists of Active_Lobby.png Saved.png Create_Lobby.png Login.png Single.png Idle_Lobby.png Main.png Join.png. lobby.txt and Lobby_overview.png are descriptions of them. Points involved: Login, agree on a battlefield, sava/load.
 
-Battle field part consists of TBD. 
+Battle field part consists of Battle.png  Battle_menu.png Battle_selected.png Battle_selected_build.png and battlefield.txt is description of them. Points involved: Battlefield, distinguish between different players, execute a move, allow playet to trigger every game functionality, allow player to view all game state.
