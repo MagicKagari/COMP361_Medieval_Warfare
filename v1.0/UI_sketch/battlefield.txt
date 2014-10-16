@@ -8,5 +8,5 @@ Options area will display information about current selected unit. For examplt: 
 
 Menu area will be a clickable area. After click on it, a popup menu will appear and allow player to Save/Load/Exit game and modify some settings if applicable. The popup menu can be closed by ESC or a cross "cancel" buttom (didn't show it in sketch). 
 
-Main battle screen shows part of the whole map, and this is the place where players can operate with their units and territories. Different players' units will be marked with a color assigned at the lobby.
-To do operation on a unit, player need to click on that unit and a circle with operation will appear. Player can now select what operation they want on this unit like "attack" or "merge".
+Main battle screen shows part of the whole map, and this is the place where players can operate with their units and territories. Different players' units will be marked with a color assigned at the lobby. During the texture mapping time, we plan to have different color to decoration each unit. For example, a Knight belongs to PlayerGreen will have a helmet with green pieces and his horse will have green decorated armor. A villiage belongs to PlayerGreen will have a green flag etc.
+To do operation on a unit, player need to click on that unit and a circle with operations will appear. Player can now select what operation they want on this unit like "attack" or "merge". If player choose "trangle" which represent "build", a panel will come up to show which building to contruct.
