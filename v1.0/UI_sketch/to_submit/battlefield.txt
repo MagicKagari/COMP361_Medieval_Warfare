@@ -1,0 +1,12 @@
+The battle field consists of the main battle screen, four panel on the left namely: Map, Data, Options, Menu.
+
+Map area will display a thumbnail of entire map, current view of map is displayed inside a square on thumbnail. And player can click on thumbnail to bring their view to destination point. So player can have a general idea about the whole battle field.
+
+Data area will display information of current game namely: current player's resources and their ammount, game status including eclapsed time since started, current turn number and which player's which phase, which player is defeated or surrender etc.
+
+Options area will display information about current selected unit. For examplt: if a villager is selected, how many gold it costs each turn, how many gold he mined, how many buildings it construced etc. will be displayed.
+
+Menu area will be a clickable area. After click on it, a popup menu will appear and allow player to Save/Load/Exit game and modify some settings if applicable. The popup menu can be closed by ESC or a cross "cancel" buttom (didn't show it in sketch). 
+
+Main battle screen shows part of the whole map, and this is the place where players can operate with their units and territories. Different players' units will be marked with a color assigned at the lobby. During the texture mapping time, we plan to have different color to decoration each unit. For example, a Knight belongs to PlayerGreen will have a helmet with green pieces and his horse will have green decorated armor. A villiage belongs to PlayerGreen will have a green flag etc.
+To do operation on a unit, player need to click on that unit and a circle with operations will appear. Player can now select what operation they want on this unit like "attack" or "merge". If player choose "trangle" which represent "build", a panel will come up to show which building to contruct.
